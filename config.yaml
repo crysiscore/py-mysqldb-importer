@@ -1,0 +1,35 @@
+mysql_username: esaude
+mysql_password: esaude
+host: localhost
+basedir: /home/agnaldo/PycharmProjects/PythonDataIntegration/
+backup_dir: backups
+outdir: out
+datadir: sql_data_files
+
+
+facilities:
+ - 'chicuque'
+ - 'chongola'
+ - 'cumbana'
+ - 'doane'
+ - 'massinga'
+ - 'homoine'
+ - 'mapinhane'
+ - 'hrv'
+ - 'funhalouro'
+ - 'inharrime'
+ - 'inhassoro'
+ - 'jangamo'
+ - 'mabil'
+ - 'mabote'
+ - 'mangungumete'
+ - 'mapinhane'
+ - 'maxixe'
+ - 'morumbene'
+ - 'panda'
+ - 'salela'
+ - 'urbano'
+ - 'zandamela'
+ - 'zavala'
+ - 'cambine'
+
